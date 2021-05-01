@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Sumanth Nadiger
+- 👋 Hi, I’m  [Sumanth Nadiger](https://www.linkedin.com/in/sumanthknadiger/)
 - 👀 I’m interested in Design and Developement of Special Purpose Machines and Automation
 - 🌱 I’m currently learning Automation and Robotics
 - 💞️ I’m looking to collaborate on SPM and Robotics Projects
