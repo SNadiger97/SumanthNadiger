@@ -15,8 +15,8 @@
       Products: VGG & VSG, Deep hole Drilling, SVTL, VTL, Headstock, Fixtures & Tool and Cutter.
       
 - 📚 Trainings & Certifications
-      + Training on Design of SPM and GPM from IMTMA, Bangalore
-      + 
+      *Training on Design of SPM and GPM from IMTMA, Bangalore
+      * 
 - 🏆 Awards & Recognitions: 
       ⋅⋅* 	IMPACT Award (Own It): For Resetting the Original State of the Broke down Spindle Test-rig.
       ⋅⋅* 	Kaizen Award: Improvement in Routing of cable on Reader head for In-Built drive Rotary table assembly. 
