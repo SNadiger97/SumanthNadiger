@@ -21,7 +21,9 @@
      *
 - 🏆 Awards & Recognitions: 
       *IMPACT Award (Own It): For Resetting the Original State of the Broke down Spindle Test-rig.
-      *Kaizen Award: Improvement in Routing of cable on Reader head for In-Built drive Rotary table assembly. 
+      
+      *Kaizen Award: Improvement in Routing of cable on Reader head for In-Built drive Rotary table assembly.
+      
       *Find and Fix: For Providing Safety Hazard Chart for Unattended Extinguisher. 
 <!---
 SumanthNadiger/SumanthNadiger is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
