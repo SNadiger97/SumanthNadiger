@@ -5,7 +5,7 @@
 - 📖 I’m currently working on these Projects [My Projects](https://github.com/SumanthNadiger/Portfolio)
 - 📫 You can reach me at Sumanth.postdrop@gmail.com
 - 🏢 Currently Working at :
-- 🏢 Previously Worked at : *Kennametal WIDIA India Limited, Bangalore
+- 🏢 Previously Worked at : ⋅⋅*Kennametal WIDIA India Limited, Bangalore
                              ⋅⋅*Role: Graduate Apprentice Trainee 
                              ⋅⋅*Period: 1 Year (16/9/19 – 15/9/20)
                              ⋅⋅*Company Profile: Manufacturers & Suppliers of Best-in-Class Inserts, End Mills, Boring Bars for Aerospace, Earth cutting & SPM Machines.
