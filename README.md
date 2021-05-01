@@ -5,7 +5,7 @@
 - 📖 I’m currently working on these Projects [My Projects](https://github.com/SumanthNadiger/Portfolio)
 - 📫 You can reach me at Sumanth.postdrop@gmail.com
 - 🏢 Currently Working at :
-- 🏢 Previously Worked at : *Kennametal WIDIA India Limited, Bangalore*
+- 🏢 Previously Worked at : Kennametal WIDIA India Limited, Bangalore
 
       Role: Graduate Apprentice Trainee
       
