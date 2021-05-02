@@ -21,6 +21,7 @@
 <a href="https://twitter.com/silentmechanic" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="@silentmechanic" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/sumanthknadiger" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="sumanthknadiger" height="30" width="40" /></a>
 <a href="https://instagram.com/sumanthnadiger" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="sumanthnadiger" height="30" width="40" /></a>
+<a href="https://www.notion.so/mechdesign" target="blank"><img align="center" src="https://simpleicons.org/icons/notion.svg" alt="sumanthnadiger" height="30" width="40" /></a>
 </p>
 
 
