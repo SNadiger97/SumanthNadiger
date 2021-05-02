@@ -23,7 +23,8 @@
 <a href="https://instagram.com/sumanthnadiger" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="sumanthnadiger" height="30" width="40" /></a>
 <a href="https://www.notion.so/mechdesign" target="blank"><img align="center" src="https://simpleicons.org/icons/notion.svg" alt="sumanthnadiger" height="30" width="40" /></a>
 </p>
-
+<h3 align="left">MY Gear</h3>
+<p align="left"> <a href="https://www.oneplus.in/7t" target="_blank"> <img src="https://cdn.opstatics.com/store/20170907/assets/images/events/2019/08/hotdog/19801/overview/footer/list2.jpg" alt="arduino" width="40" height="40"/> </a> </p>
 
 <h3 align="left">Languages and Tools</h3>
 <p align="left"> 
