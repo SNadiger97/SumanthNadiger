@@ -32,7 +32,7 @@
 <p align="left"> <a href="https://https://www.solidworks.com/" target="_blank"> <img src="https://img.icons8.com/color/452/solidworks.png" alt="Solidworks" width="40" height="40"/> </a> <a href="https://https://www.Ansys.com/" target="_blank"> <img src="https://media-exp1.licdn.com/dms/image/C4E0BAQHfvGj3c61V2w/company-logo_200_200/0/1582550958594?e=1628121600&v=beta&t=jiFrUNzXufzSSE9jxOJeSHrJLWfDARaITojcbmO_9_Q" alt="ANSYS" width="40" height="40"/> </a> <a href="https://www.mastercam.com/" target="_blank"> <img src="https://www.solidworks.com/sites/default/files/files.solidworks.com/partners/company-logos/micon-and-mastercam2121.png" alt="MasterCAM" width="40" height="40"/> </a> <a href="https://www.autodesk.com/" target="_blank"> <img src="https://blogs.autodesk.com/inventor/wp-content/uploads/sites/73/2017/09/inventor-icon-128px-hd.png" alt="Inventor" width="40" height="40"/> </a> <a href="https://www.autodesk.com/" target="_blank"> <img src="https://img.icons8.com/color/2x/autodesk-autocad.png" alt="AutoCAD" width="40" height="40"/> </a>
 </p>
 
-- 🏢 Previously Worked at : <a href="https://www.kennametal.com/in/en/" target="_blank"> <img src="https://iconape.com/wp-content/png_logo_vector/kennametal.png" width="50" height="50"/> </a> </p> **Kennametal WIDIA India Limited, Bangalore** 
+- 🏢 Previously Worked at : <a href="https://www.kennametal.com/in/en/" target="_blank"> <img src="https://iconape.com/wp-content/png_logo_vector/kennametal.png" width="50" height="50"/> </a> </p> **Kennametal WIDIA India Limited, Bangalore**
       
       Role: Graduate Apprentice Trainee
       
@@ -47,11 +47,11 @@
       
       Products: VGG & VSG, Deep hole Drilling, SVTL, VTL, Headstock, Fixtures & Tool and Cutter.
       
-- 📚 Trainings & Certifications
+- 📚 **Trainings & Certifications**
       
       Training on Design of SPM and GPM from IMTMA, Bangalore
       
-- 🏆 Awards & Recognitions: 
+- 🏆 **Awards & Recognitions**
       
       IMPACT Award (Own It): For Resetting the Original State of the Broke down Spindle Test-rig.
       
