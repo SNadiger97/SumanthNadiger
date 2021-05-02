@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **CREO,CATIA v5,MASTERCAM 2021**
 
-- 👯 I’m looking to collaborate on **SPM & Automation Projects**
+- 👯 I’m looking to collaborate on **GPM / SPM & Automation Projects**
 
 - 🤝 I’m looking for help with **ANSYS , NASTRAN-PATRAN & WINDCHILL**
 
