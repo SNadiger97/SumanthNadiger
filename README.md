@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sumanthnadiger&label=Profile%20views&color=0e75b6&style=flat" alt="sumanthnadiger" /> </p>
 
-- 🔭 I’m currently working on **CAD & Design of Machine Elements**
+- 🔭 I’m currently working on **Design of Special Purpose Machines**
 
 - 🌱 I’m currently learning **CREO,CATIA v5,MASTERCAM 2021**
 
