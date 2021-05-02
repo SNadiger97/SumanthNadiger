@@ -23,8 +23,6 @@
 <a href="https://instagram.com/sumanthnadiger" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="sumanthnadiger" height="30" width="40" /></a>
 <a href="https://www.notion.so/mechdesign" target="blank"><img align="center" src="https://simpleicons.org/icons/notion.svg" alt="sumanthnadiger" height="30" width="40" /></a>
 </p>
-<h3 align="left">MY Gear</h3>
-<p align="left"> <a href="https://www.oneplus.in/7t" target="_blank"> <img src="https://cdn.opstatics.com/store/20170907/assets/images/events/2019/08/hotdog/19801/overview/footer/list2.jpg" alt="arduino" width="40" height="40"/> </a> </p>
 
 <h3 align="left">Languages and Tools</h3>
 <p align="left"> 
@@ -33,7 +31,6 @@
 <h3 align="left">CAD / CAM / CAE</h3>
 <p align="left"> <a href="https://https://www.solidworks.com/" target="_blank"> <img src="https://img.icons8.com/color/452/solidworks.png" alt="Solidworks" width="40" height="40"/> </a> <a href="https://https://www.Ansys.com/" target="_blank"> <img src="https://media-exp1.licdn.com/dms/image/C4E0BAQHfvGj3c61V2w/company-logo_200_200/0/1582550958594?e=1628121600&v=beta&t=jiFrUNzXufzSSE9jxOJeSHrJLWfDARaITojcbmO_9_Q" alt="ANSYS" width="40" height="40"/> </a> <a href="https://www.mastercam.com/" target="_blank"> <img src="https://www.solidworks.com/sites/default/files/files.solidworks.com/partners/company-logos/micon-and-mastercam2121.png" alt="MasterCAM" width="40" height="40"/> </a> <a href="https://www.autodesk.com/" target="_blank"> <img src="https://blogs.autodesk.com/inventor/wp-content/uploads/sites/73/2017/09/inventor-icon-128px-hd.png" alt="Inventor" width="40" height="40"/> </a> <a href="https://www.autodesk.com/" target="_blank"> <img src="https://img.icons8.com/color/2x/autodesk-autocad.png" alt="AutoCAD" width="40" height="40"/> </a>
 </p>
-
 
 - 🏢 Previously Worked at : **Kennametal WIDIA India Limited, Bangalore**
 
