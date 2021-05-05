@@ -42,16 +42,16 @@ In the overview below you will find my most recent work experience:
 Tools & Technologies Used: `SAP`, `Wrench`, `AutoCAD`, \
 Notable Works: 'Preperation of SOP and Checklist for VTL, SVTL and ECO-Grind and Ezee-Grind Spindles'
       
-      Period: 1 Year (16/9/19 – 15/9/20)
+      **Period:** 1 Year (16/9/19 – 15/9/20)
       
-      Company Profile: Manufacturers & Suppliers of Best-in-Class Inserts, End Mills, 
+      **Company Profile:** Manufacturers & Suppliers of Best-in-Class Inserts, End Mills, 
       Boring Bars for Aerospace, Earth cutting & SPM Machines.
       
-      Working Group: MSG (Machining Solution Group)
+      **Working Group:** MSG (Machining Solution Group)
       
-      Customers: HERO, HMIL, Royal Enfield etc.,
+      **Customers:** HERO, HMIL, Royal Enfield etc.,
       
-      Products: VGG & VSG, Deep hole Drilling, SVTL, VTL, Headstock, Fixtures & Tool and Cutter.
+      **Products:** VGG & VSG, Deep hole Drilling, SVTL, VTL, Headstock, Fixtures & Tool and Cutter.
 <br/>
 
 Please find me on [LinkedIn](https://linkedin.com/in/sumanthknadiger) for a more detailed description of my full work experience, education and certification.
