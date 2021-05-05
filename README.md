@@ -62,9 +62,9 @@ Please find me on [LinkedIn](https://linkedin.com/in/sumanthknadiger) for a more
       
 - 🏆 **Awards & Recognitions**
       
-      [**IMPACT Award (Own It)**](https://docs.google.com/viewer?url=https://github.com/SumanthNadiger/SumanthNadiger/blob/main/Documents/E-Certificate.pdf) : For Resetting the Original State of the Broke down Spindle Test-rig.
+     [**IMPACT Award (Own It)**](https://docs.google.com/viewer?url=https://github.com/SumanthNadiger/SumanthNadiger/blob/main/Documents/E-Certificate.pdf) : For Resetting the Original State of the Broke down Spindle Test-rig.
       
-      Kaizen Award: Improvement in Routing of cable on Reader head for In-Built drive Rotary table assembly.
+     Kaizen Award: Improvement in Routing of cable on Reader head for In-Built drive Rotary table assembly.
       
-      Find and Fix: For Providing Safety Hazard Chart for Unattended Extinguisher.
+     Find and Fix: For Providing Safety Hazard Chart for Unattended Extinguisher.
 
