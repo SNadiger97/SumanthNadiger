@@ -32,15 +32,15 @@
 <p align="left"> <a href="https://https://www.solidworks.com/" target="_blank"> <img src="https://img.icons8.com/color/452/solidworks.png" alt="Solidworks" width="40" height="40"/> </a> <a href="https://https://www.Ansys.com/" target="_blank"> <img src="https://media-exp1.licdn.com/dms/image/C4E0BAQHfvGj3c61V2w/company-logo_200_200/0/1582550958594?e=1628121600&v=beta&t=jiFrUNzXufzSSE9jxOJeSHrJLWfDARaITojcbmO_9_Q" alt="ANSYS" width="40" height="40"/> </a> <a href="https://www.mastercam.com/" target="_blank"> <img src="https://www.solidworks.com/sites/default/files/files.solidworks.com/partners/company-logos/micon-and-mastercam2121.png" alt="MasterCAM" width="40" height="40"/> </a> <a href="https://www.autodesk.com/" target="_blank"> <img src="https://blogs.autodesk.com/inventor/wp-content/uploads/sites/73/2017/09/inventor-icon-128px-hd.png" alt="Inventor" width="40" height="40"/> </a> <a href="https://www.autodesk.com/" target="_blank"> <img src="https://img.icons8.com/color/2x/autodesk-autocad.png" alt="AutoCAD" width="40" height="40"/> </a>
 </p>
 
-- 🏢 Currently Working at : **Yuken India Limited, Bangalore**
-      
-      Role: Design Engineer Trainee (NPD Division)
-      
-      Period: On Going
-      
-- 🏢 Previously Worked at : **Kennametal WIDIA India Limited, Bangalore**
-      
-      Role: Graduate Apprentice Trainee
+### Work Experience
+In the overview below you will find my most recent work experience:
+
+[<img align="left" height="94px" width="94px" alt="Kennametal" src="https://iconape.com/wp-content/files/pm/73145/svg/kennametal.svg"/>](http://www.kennametal.com/)
+
+**Kennametal WIDIA India Limited, Bangalore** \
+[**Kennametal**](http://www.kennametal.com/) • Graduate Apprentice Trainee \
+Tools & Technologies Used: `SAP`, `Wrench`, `AutoCAD`, \
+Notable Works: 'Preperation of SOP and Checklist for VTL, SVTL and ECO-Grind and Ezee-Grind Spindles'
       
       Period: 1 Year (16/9/19 – 15/9/20)
       
@@ -52,6 +52,9 @@
       Customers: HERO, HMIL, Royal Enfield etc.,
       
       Products: VGG & VSG, Deep hole Drilling, SVTL, VTL, Headstock, Fixtures & Tool and Cutter.
+<br/>
+
+Please find me on [LinkedIn](https://linkedin.com/in/sumanthknadiger) for a more detailed description of my full work experience, education and certification.
       
 - 📚 **Trainings & Certifications**
       
