@@ -58,7 +58,7 @@ Please find me on [LinkedIn](https://linkedin.com/in/sumanthknadiger) for a more
       
 - 📚 **Trainings & Certifications**
       
-      Training on Design of SPM and GPM from IMTMA, Bangalore
+      Trained on Design of SPM and GPM from IMTMA, Bangalore 
       
 - 🏆 **Awards & Recognitions**
       
