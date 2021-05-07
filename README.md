@@ -46,6 +46,7 @@
 <a href="https://www.mastercam.com/" target="_blank"> <img src="https://www.solidworks.com/sites/default/files/files.solidworks.com/partners/company-logos/micon-and-mastercam2121.png" alt="MasterCAM" width="40" height="40"/> </a> 
 <a href="https://www.autodesk.com/" target="_blank"> <img src="https://blogs.autodesk.com/inventor/wp-content/uploads/sites/73/2017/09/inventor-icon-128px-hd.png" alt="Inventor" width="40" height="40"/> </a> 
 <a href="https://www.autodesk.com/" target="_blank"> <img src="https://img.icons8.com/color/2x/autodesk-autocad.png" alt="AutoCAD" width="40" height="40"/> </a>
+<a href="https://www.ptc.com/en/products/creo" target="_blank"> <img src="https://www.numecent.com/wp-content/uploads/2017/02/PTC_Creo.png" alt="CREO" width="40" height="40"/> </a>
 </p>
 
 ### Work Experience
