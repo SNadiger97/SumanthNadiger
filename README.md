@@ -29,10 +29,10 @@
 <h3 align="left">Languages and Tools</h3>
 <p align="left">
 <a href="https://www.microsoft.com/en-us/p/windows-terminal/" target="_blank"> <img src="https://simpleicons.org/icons/windowsterminal.svg" alt="Terminal" width="40" height="40"/> </a>
-<a href="https://www.cprogramming.com/" target="_blank"> <img src="https://simpleicons.org/icons/cplusplus.svg" alt="C++" width="40" height="40"/> </a> 
-<a href="https://www.arduino.cc/" target="_blank"> <img src="https://simpleicons.org/icons/arduino.svg" alt="arduino" width="40" height="40"/> </a> 
-<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"> <img src="https://simpleicons.org/icons/csharp.svg" alt="C#" width="40" height="40"/> </a> 
-<a href="https://dotnet.microsoft.com/" target="_blank"> <img src="https://simpleicons.org/icons/dot-net.svg" alt="dotnet" width="40" height="40"/> </a> 
+<a href="https://www.cprogramming.com/" target="_blank"><img src="https://simpleicons.org/icons/cplusplus.svg" alt="C++" width="40" height="40"/> </a> 
+<a href="https://www.arduino.cc/" target="_blank"><img src="https://simpleicons.org/icons/arduino.svg" alt="arduino" width="40" height="40"/> </a> 
+<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img src="https://simpleicons.org/icons/csharp.svg" alt="C#" width="40" height="40"/> </a> 
+<a href="https://dotnet.microsoft.com/" target="_blank"><img src="https://simpleicons.org/icons/dot-net.svg" alt="dotnet" width="40" height="40"/> </a> 
 <a href="https://www.linux.org/" target="_blank"> <img src="https://simpleicons.org/icons/linux.svg" alt="linux" width="40" height="40"/> </a> 
 <a href="https://www.mathworks.com/" target="_blank"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/mathworks.svg" alt="matlab" width="40" height="40"/> </a> 
 <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://simpleicons.org/icons/adobephotoshop.svg" alt="photoshop" width="40" height="40"/> </a> 
