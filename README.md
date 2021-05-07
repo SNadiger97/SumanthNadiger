@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Design of Special Purpose Machines**
 
-- 🌱 I’m currently learning **CREO,CATIA v5,MASTERCAM 2021**
+- 🌱 I’m currently learning **CREO,CATIA v6,MASTERCAM 2021**
 
 - 👯 I’m looking to collaborate on **GPM / SPM & Automation Projects**
 
