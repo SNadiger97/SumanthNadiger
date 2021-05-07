@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **SolidWorks, Inventor & CNC Programming**
 
-- 📃 You can find my CV<a id="raw-url" href="https://raw.githubusercontent.com/github-username/project/master/filename"> Here<img align="center" src="https://image.flaticon.com/icons/png/128/129/129492.png" alt="sumanthnadiger" height="30" width="40" /></a>
+- 📃 You can find my CV<a id="raw-url" href="https://raw.githubusercontent.com/github-username/project/master/filename">Here</a>
 
 - 📫 How to reach me <a href="https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=sumanthn1001@gmail.com" target="blank"><img align="center" src="https://simpleicons.org/icons/gmail.svg" alt="sumanthnadiger" height="40" width="40" /></a> 
 
