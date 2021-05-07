@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **SolidWorks, Inventor & CNC Programming**
 
-- 📫 How to reach me <a href="mailto:sumanthnadiger@gmail.com" target="blank"><img align="center" src="https://simpleicons.org/icons/gmail.svg" alt="sumanthnadiger" height="30" width="40" /></a>
+- 📫 How to reach me <a href="https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=sumanthnadiger@gmail.com" target="blank"><img align="center" src="https://simpleicons.org/icons/gmail.svg" alt="sumanthnadiger" height="30" width="40" /></a> 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
