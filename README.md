@@ -79,7 +79,7 @@ Please find me on [LinkedIn](https://linkedin.com/in/sumanthknadiger) for a more
       
 - 🏆 **Awards & Recognitions**
       
-     [**IMPACT Award (Own It)**](https://nbviewer.jupyter.org/github/SumanthNadiger/SumanthNadiger/blob/main/Documents/E-Certificate.pdf) : For Resetting the Original State of the Broke down Spindle Test-rig.
+     [**IMPACT Award (Own It)**](https://nbviewer.jupyter.org/github/SumanthNadiger/SumanthNadiger/blob/main/Documents/E-Certificate.pdf#toolbar=0) : For Resetting the Original State of the Broke down Spindle Test-rig.
       
      Kaizen Award: Improvement in Routing of cable on Reader head for In-Built drive Rotary table assembly.
       
