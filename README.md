@@ -56,7 +56,7 @@ In the overview below you will find my most recent work experience:
 
 **Kennametal WIDIA India Limited, Bangalore** \
 [**Kennametal**](http://www.kennametal.com/) • Graduate Apprentice Trainee \
-Tools & Technologies Used: `SAP`, `Wrench`, `AutoCAD`, \
+Tools & Technologies Used: `SAP`, `Wrench`, `AutoCAD`, `SolidWorks` \
 Notable Works: 'Preperation of SOP and Checklist for VTL, SVTL and ECO-Grind and Ezee-Grind Spindles'
       
    • **Period:** 1 Year (16/9/19 – 15/9/20)
