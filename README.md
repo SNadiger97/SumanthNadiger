@@ -1,6 +1,5 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Caveat&lines=HI%2C+My+Name+is+Sumanth+Nadiger)](https://git.io/typing-svg)
-<h1 align="center">Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, A passionate Mechanical Design Engineer</h1>
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Caveat&color=87898c&size=70&center=true&vCenter=true&width=800&height=70&lines=HI%2C+i+am+Sumanth+Nadiger)](https://git.io/typing-svg)
+<h1 align="center" width="40">Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px">, A passionate Mechanical Design Engineer</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sumanthnadiger&label=Profile%20views&color=0e75b6&style=flat" alt="sumanthnadiger" /> </p>
 
 - 🔭 I’m currently working on **Design of Special Purpose Machines**
