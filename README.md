@@ -1,5 +1,5 @@
-<h1 align="center">Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Sumanth Nadiger</h1>
-<h3 align="center">A passionate Mechanical Design Engineer</h3>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Caveat&lines=HI%2C+My+Name+is+Sumanth+Nadiger)](https://git.io/typing-svg)
+<h1 align="center">Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, A passionate Mechanical Design Engineer</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sumanthnadiger&label=Profile%20views&color=0e75b6&style=flat" alt="sumanthnadiger" /> </p>
 
