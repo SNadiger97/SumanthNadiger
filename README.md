@@ -2,9 +2,11 @@
 <h1 align="center" width="40">Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px">, A passionate Mechanical Design Engineer</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sumanthnadiger&label=Profile%20views&color=0e75b6&style=flat" alt="sumanthnadiger" /> </p>
 
+- 🔭 I’m currently working at **Kennametal WIDIA India Limited,Bangalore**
+
 - 🔭 I’m currently working on **Design of Special Purpose Machines**
 
-- 🌱 I’m currently learning **CREO,CATIA v6,MASTERCAM 2021**
+- 🌱 I’m currently learning **CREO,CATIA v6,MASTERCAM**
 
 - 👯 I’m looking to collaborate on **GPM / SPM & Automation Projects**
 
@@ -12,7 +14,6 @@
 
 - 💬 Ask me about **SolidWorks, Inventor & CNC Programming**
 
-- 📃 You can find my CV [->Here<-](https://nbviewer.jupyter.org/github/SumanthNadiger/SumanthNadiger/blob/1309bf73cfb99ccfd742ad9f39d23f7f9b225250/Documents/CVD_01_05_21.pdf#toolbar=0)
 
 - 📫 How to reach me<a href="https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=sumanthn1001@gmail.com" target="blank"> <img align="center" src="https://simpleicons.org/icons/gmail.svg" fill='rgba(49,168,255,1)' alt="sumanthnadiger" height="40" width="40" /></a> 
 
@@ -54,6 +55,23 @@ In the overview below you will find my most recent work experience:
 [<img align="left" height="94px" width="94px" alt="Kennametal" src="https://iconape.com/wp-content/files/pm/73145/svg/kennametal.svg"/>](http://www.kennametal.com/)
 
 **Kennametal WIDIA India Limited, Bangalore** \
+[**Kennametal**](http://www.kennametal.com/) • Contract Design Engineer \
+Tools & Technologies Used: `SAP`, `Wrench`, `AutoCAD`, `SolidWorks` \
+Notable Works: 
+      
+   • **Period:** 2 Year (23/6/21 – Present)
+     
+   • **Working Group:** MSG (Machining Solution Group)
+      
+   • **Customers:** 
+      
+   • **Products:** VGG & VSG, Deep hole Drilling, SVTL, VTL, Headstock, Fixtures & Tool and Cutter.
+<br/>
+
+
+[<img align="left" height="94px" width="94px" alt="Kennametal" src="https://iconape.com/wp-content/files/pm/73145/svg/kennametal.svg"/>](http://www.kennametal.com/)
+
+**Kennametal WIDIA India Limited, Bangalore** \
 [**Kennametal**](http://www.kennametal.com/) • Graduate Apprentice Trainee \
 Tools & Technologies Used: `SAP`, `Wrench`, `AutoCAD`, `SolidWorks` \
 Notable Works: 'Preperation of SOP and Checklist for VTL, SVTL and ECO-Grind and Ezee-Grind Spindles'
@@ -65,7 +83,7 @@ Notable Works: 'Preperation of SOP and Checklist for VTL, SVTL and ECO-Grind and
       
    • **Working Group:** MSG (Machining Solution Group)
       
-   • **Customers:** HERO, HMIL, Royal Enfield etc.,
+   • **Customers:**
       
    • **Products:** VGG & VSG, Deep hole Drilling, SVTL, VTL, Headstock, Fixtures & Tool and Cutter.
 <br/>
