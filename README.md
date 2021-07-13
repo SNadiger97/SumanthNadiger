@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working at **Kennametal WIDIA India Limited,Bangalore**
 
-- 🔭 I’m currently working on **Design of Special Purpose Machines**
+- 🔭 I’m currently working on **Machine Tool Fixture**
 
 - 🌱 I’m currently learning **CREO,CATIA v6,MASTERCAM**
 
@@ -14,6 +14,7 @@
 
 - 💬 Ask me about **SolidWorks, Inventor & CNC Programming**
 
+- 📚 I’m Currently Reading **Machine Design by Shigley**
 
 - 📫 How to reach me<a href="https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=sumanthn1001@gmail.com" target="blank"> <img align="center" src="https://simpleicons.org/icons/gmail.svg" fill='rgba(49,168,255,1)' alt="sumanthnadiger" height="40" width="40" /></a> 
 
