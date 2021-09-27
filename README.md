@@ -43,7 +43,7 @@
 <h3 align="left">CAD / CAM / CAE</h3>
 <p align="left"> 
 <a href="https://www.solidworks.com/" target="_blank"> <img src="https://img.icons8.com/color/452/solidworks.png" alt="Solidworks" width="40" height="40"/> </a> 
-<a href="https://www.Ansys.com/" target="_blank"> <img src="http://www.w3.org/2000/svg" alt="ANSYS" width="40" height="40"/> </a> 
+<a href="https://www.Ansys.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/14/Ansys_logo_%282019%29.svg" alt="ANSYS" width="40" height="40"/> </a> 
 <a href="https://www.mastercam.com/" target="_blank"> <img src="https://www.solidworks.com/sites/default/files/files.solidworks.com/partners/company-logos/micon-and-mastercam2121.png" alt="MasterCAM" width="40" height="40"/> </a> 
 <a href="https://www.autodesk.com/" target="_blank"> <img src="https://blogs.autodesk.com/inventor/wp-content/uploads/sites/73/2017/09/inventor-icon-128px-hd.png" alt="Inventor" width="40" height="40"/> </a> 
 <a href="https://www.autodesk.com/" target="_blank"> <img src="https://img.icons8.com/color/2x/autodesk-autocad.png" alt="AutoCAD" width="40" height="40"/> </a>
