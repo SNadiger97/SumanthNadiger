@@ -4,9 +4,9 @@
 
 - 🔭 I’m currently working at **Kennametal WIDIA India Limited,Bangalore**
 
-- 🔭 I’m currently working on **Machine Tool Fixture**
+- 🔭 I’m currently working on **Machining Fixture**
 
-- 🌱 I’m currently learning **CREO,CATIA v6,MASTERCAM**
+- 🌱 I’m currently learning **CREO**
 
 - 👯 I’m looking to collaborate on **GPM / SPM & Automation Projects**
 
