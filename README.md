@@ -2,11 +2,11 @@
 <h1 align="center" width="40">Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px">, A passionate Mechanical Design Engineer</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sumanthnadiger&label=Profile%20views&color=0e75b6&style=flat" alt="sumanthnadiger" /> </p>
 
-- 🔭 I’m currently working at **Kennametal WIDIA India Limited,Bangalore**
+- 🔭 I’m currently working at **Chenik Technomen Services,Bangalore**
 
-- 🔭 I’m currently working on **Machining Fixture**
+- 🔭 I’m currently working on **BIW Welding Fixture**
 
-- 🌱 I’m currently learning **CREO**
+- 🌱 I’m currently learning **JAVA*
 
 - 👯 I’m looking to collaborate on **GPM / SPM & Automation Projects**
 
