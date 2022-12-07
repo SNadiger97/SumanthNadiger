@@ -56,7 +56,7 @@ In the overview below you will find my most recent work experience:
 Tools & Technologies Used: `SAP`, `Wrench`, `AutoCAD`, `SolidWorks` \
 Notable Works: 
       
-   • **Period:** 1.4 Year (23/6/21 – Present)
+   • **Period:** 1.6 Year (23/6/21 – Present)
      
    • **Working Group:** MSG (Machining Solution Group)
       
