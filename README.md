@@ -2,9 +2,9 @@
 <h1 align="center" width="40">Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px">, A passionate Mechanical Design Engineer</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sumanthnadiger&label=Profile%20views&color=0e75b6&style=flat" alt="sumanthnadiger" /> </p>
 
-- 🔭 I’m currently working at **Chenik Technomen Services,Bangalore**
+- 🔭 I’m currently working at **Kennametal Widia India Ltd,Bangalore**
 
-- 🔭 I’m currently working on **BIW Welding Fixture**
+- 🔭 I’m currently working on **Fixture**
 
 - 🌱 I’m currently learning **JAVA*
 
@@ -14,7 +14,7 @@
 
 - 💬 Ask me about **SolidWorks, Inventor & CNC Programming**
 
-- 📚 I’m Currently Reading **Machine Design by Shigley**
+- 📚 I’m Currently Reading ****
 
 - 📫 How to reach me<a href="https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=sumanthn1001@gmail.com" target="blank"> <img align="center" src="https://simpleicons.org/icons/gmail.svg" fill='rgba(49,168,255,1)' alt="sumanthnadiger" height="40" width="40" /></a> 
 
@@ -56,7 +56,7 @@ In the overview below you will find my most recent work experience:
 Tools & Technologies Used: `SAP`, `Wrench`, `AutoCAD`, `SolidWorks` \
 Notable Works: 
       
-   • **Period:** 1.6 Year (23/6/21 – Present)
+   • **Period:** 1.7 Year (23/6/21 – Present)
      
    • **Working Group:** MSG (Machining Solution Group)
       
