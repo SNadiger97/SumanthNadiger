@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **Machine Design**
 
-- 🌱 I’m currently learning **SQL*
+- 🌱 I’m currently learning **SQL**
 
 - 👯 I’m looking to collaborate on **GPM / SPM & Automation Projects**
 
@@ -15,6 +15,8 @@
 - 💬 Ask me about **SolidWorks, Inventor & CNC Programming**
 
 - 📚 I’m Currently Reading **Data Structures and Algorithms**
+
+- - 📚 I’m Currently Studying **Scalar**
 
 - 📫 How to reach me<a href="https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=sumanthn1001@gmail.com" target="blank"> <img align="center" src="https://simpleicons.org/icons/gmail.svg" fill='rgba(49,168,255,1)' alt="sumanthnadiger" height="40" width="40" /></a> 
 
