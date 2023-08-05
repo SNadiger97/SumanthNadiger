@@ -2,11 +2,11 @@
 <h1 align="center" width="40">Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px">, A passionate Mechanical Design Engineer</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sumanthnadiger&label=Profile%20views&color=0e75b6&style=flat" alt="sumanthnadiger" /> </p>
 
-- 🔭 I’m currently working at **Kennametal Widia India Ltd,Bangalore**
+- 🔭 I’m currently working at **Micromatic Grinding Technologies Ltd,Bangalore**
 
-- 🔭 I’m currently working on **Fixture**
+- 🔭 I’m currently working on **Machine Design**
 
-- 🌱 I’m currently learning **JAVA*
+- 🌱 I’m currently learning **SQL*
 
 - 👯 I’m looking to collaborate on **GPM / SPM & Automation Projects**
 
@@ -14,7 +14,7 @@
 
 - 💬 Ask me about **SolidWorks, Inventor & CNC Programming**
 
-- 📚 I’m Currently Reading ****
+- 📚 I’m Currently Reading **Data Structures and Algorithms**
 
 - 📫 How to reach me<a href="https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=sumanthn1001@gmail.com" target="blank"> <img align="center" src="https://simpleicons.org/icons/gmail.svg" fill='rgba(49,168,255,1)' alt="sumanthnadiger" height="40" width="40" /></a> 
 
@@ -48,6 +48,24 @@
 
 ### Work Experience
 In the overview below you will find my most recent work experience:
+
+[<img align="left" height="94px" width="94px" alt="Kennametal" src="[https://iconape.com/wp-content/files/pm/73145/svg/kennametal.svg](https://www.google.com/imgres?imgurl=https%3A%2F%2Flookaside.fbsbx.com%2Flookaside%2Fcrawler%2Fmedia%2F%3Fmedia_id%3D100057823502705&tbnid=JCnnd5xXJNF62M&vet=12ahUKEwjEodTsi8WAAxWSzaACHfPoCXcQMygdegUIARD4AQ..i&imgrefurl=https%3A%2F%2Fwww.facebook.com%2Fmicromaticgrindingtech%2F&docid=yCj0RJW9H5q3SM&w=1920&h=1920&q=Micromatic%20Grinding%20Technologies%20Ltd%2CBangalore&hl=en&ved=2ahUKEwjEodTsi8WAAxWSzaACHfPoCXcQMygdegUIARD4AQ)"/>]([http://www.kennametal.com/](https://www.micromaticgrinding.com/))
+
+**Micromatic Grinding Technologies Ltd,Bangalore** \
+[**Micromatics**](https://www.micromaticgrinding.com/) •Engineer-I \
+Tools & Technologies Used: `SAP`, `ProgeCAD`, `SolidWorks 2023` \
+Notable Works: 
+      
+   • **Period:** 0.1 Year (21/8/23 – Present)
+     
+   • **Working Group:** DDM (Design and Development Mechaniacal)
+      
+   • **Customers:** 
+      
+   • **Products:** ID, OD and CL Grinding Machines.
+<br/>
+
+
 
 [<img align="left" height="94px" width="94px" alt="Kennametal" src="https://iconape.com/wp-content/files/pm/73145/svg/kennametal.svg"/>](http://www.kennametal.com/)
 
