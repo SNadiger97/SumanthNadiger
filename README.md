@@ -74,7 +74,7 @@ Notable Works:
 Tools & Technologies Used: `SAP`, `Wrench`, `AutoCAD`, `SolidWorks` \
 Notable Works: 
       
-   • **Period:** 1.7 Year (23/6/21 – Present)
+   • **Period:** 2.1 Year (23/6/21 – 21/7/23)
      
    • **Working Group:** MSG (Machining Solution Group)
       
