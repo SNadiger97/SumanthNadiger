@@ -49,7 +49,7 @@
 ### Work Experience
 In the overview below you will find my most recent work experience:
 
-[<img align="left" height="94px" width="94px" alt="Kennametal" src="[https://iconape.com/wp-content/files/pm/73145/svg/kennametal.svg](https://www.google.com/imgres?imgurl=https%3A%2F%2Flookaside.fbsbx.com%2Flookaside%2Fcrawler%2Fmedia%2F%3Fmedia_id%3D100057823502705&tbnid=JCnnd5xXJNF62M&vet=12ahUKEwjEodTsi8WAAxWSzaACHfPoCXcQMygdegUIARD4AQ..i&imgrefurl=https%3A%2F%2Fwww.facebook.com%2Fmicromaticgrindingtech%2F&docid=yCj0RJW9H5q3SM&w=1920&h=1920&q=Micromatic%20Grinding%20Technologies%20Ltd%2CBangalore&hl=en&ved=2ahUKEwjEodTsi8WAAxWSzaACHfPoCXcQMygdegUIARD4AQ)"/>]([http://www.kennametal.com/](https://www.micromaticgrinding.com/))
+[<img align="left" height="94px" width="94px" alt="Micromatic Grinding" src="https://scontent.fblr4-2.fna.fbcdn.net/v/t39.30808-6/238783387_265713435366105_8380336299016283582_n.png?_nc_cat=105&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=xt9sDkB5htkAX9XFQeC&_nc_ht=scontent.fblr4-2.fna&oh=00_AfDqkknT8IcyWMA6ZmBADv4c-K_mNHVeErrw70N5VgRdrg&oe=64D2270C"/>]([https://www.micromaticgrinding.com/))
 
 **Micromatic Grinding Technologies Ltd,Bangalore** \
 [**Micromatics**](https://www.micromaticgrinding.com/) •Engineer-I \
