@@ -49,7 +49,7 @@
 ### Work Experience
 In the overview below you will find my most recent work experience:
 
-[<img align="left" height="94px" width="94px" alt="Micromatic Grinding" src="https://scontent.fblr4-2.fna.fbcdn.net/v/t39.30808-6/238783387_265713435366105_8380336299016283582_n.png?_nc_cat=105&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=xt9sDkB5htkAX9XFQeC&_nc_ht=scontent.fblr4-2.fna&oh=00_AfDqkknT8IcyWMA6ZmBADv4c-K_mNHVeErrw70N5VgRdrg&oe=64D2270C"/>]([https://www.micromaticgrinding.com/))
+[<img align="left" height="94px" width="94px" alt="Micromatic Grinding" src="https://scontent.fblr4-2.fna.fbcdn.net/v/t39.30808-6/238783387_265713435366105_8380336299016283582_n.png?_nc_cat=105&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=xt9sDkB5htkAX9XFQeC&_nc_ht=scontent.fblr4-2.fna&oh=00_AfDqkknT8IcyWMA6ZmBADv4c-K_mNHVeErrw70N5VgRdrg&oe=64D2270C"/>]([https://www.micromaticgrinding.com/)
 
 **Micromatic Grinding Technologies Ltd,Bangalore** \
 [**Micromatics**](https://www.micromaticgrinding.com/) •Engineer-I \
@@ -78,7 +78,7 @@ Notable Works:
      
    • **Working Group:** MSG (Machining Solution Group)
       
-   • **Customers:** 
+   • **Customers:** MSIL, HMCL, HMSI, TE, TML, GPI etc.
       
    • **Products:** VGG & VSG, Deep hole Drilling, SVTL, VTL, Headstock, Fixtures & Tool and Cutter.
 <br/>
@@ -97,9 +97,7 @@ Notable Works: 'Preperation of SOP and Checklist for VTL, SVTL and ECO-Grind and
       Boring Bars for Aerospace, Earth cutting & SPM Machines.
       
    • **Working Group:** MSG (Machining Solution Group)
-      
-   • **Customers:**
-      
+   
    • **Products:** VGG & VSG, Deep hole Drilling, SVTL, VTL, Headstock, Fixtures & Tool and Cutter.
 <br/>
 
