@@ -2,21 +2,21 @@
 <h1 align="center" width="40">Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px">, A passionate Mechanical Design Engineer</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sumanthnadiger&label=Profile%20views&color=0e75b6&style=flat" alt="sumanthnadiger" /> </p>
 
-- 🔭 I’m currently working at **JB Poindexter Shared Services India Pvt. Ltd., Bangalore**
+- 🔭 I’m currently working at **Dover India Pvt. Ltd., Bangalore**
 
-- 🔭 I’m currently working on **E2O**
+- 🔭 I’m currently working as a **Product Engineer - Refrigeration**
 
-- 🌱 I’m currently learning **JAVA**
+- 🌱 I’m currently learning **Python & Product Management**
 
-- 👯 I’m looking to collaborate on **PHP & System Design Projects**
+- 👯 I’m looking to collaborate on **SQL & System Design Projects**
 
-- 🤝 I’m looking for help with **ANSYS , NASTRAN-PATRAN & WINDCHILL**
+- 🤝 I’m looking for help with **ANSYS Structural & SolidWorks Simulation**
 
-- 💬 Ask me about **SolidWorks, Inventor & CNC Programming**
+- 💬 Ask me about **Mechanical Design & CNC Programming**
 
-- 📚 I’m Currently Reading **Data Structures and Algorithms**
+- 📚 I’m Currently Reading **Statics & Dynamics by R.C Hibbler**
 
-- - 📚 I’m Currently Studying **Scalar**
+- - 📚 I’m Currently Studying  at **Scalar**
 
 - 📫 How to reach me<a href="https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=" target="blank"> <img align="center" src="https://simpleicons.org/icons/gmail.svg" fill='rgba(49,168,255,1)' alt="sumanthnadiger" height="40" width="40" /></a> 
 
@@ -40,6 +40,22 @@
 ### Work Experience
 In the overview below you will find my most recent work experience:
 
+[<img align="left" height="94px" width="94px" alt="JB Poindexter & Co." src="[https://media.licdn.com/dms/image/C560BAQEKmfwoE-vY0Q/company-logo_200_200/0/1624906929031?e=2147483647&v=beta&t=83Qu-OpYdTVGeHUwAfi4ibtLfFKi-JIT_mcrLqMJUrU](https://www.dovercorporation.com/images/default-source/template-graphics/logo-dover_main.png?sfvrsn=9c8c1ac8_2)"/>]([[https://jbpoindexter.com/](https://www.dovercorporation.com/dover-india)])
+
+**Dover India Pvt. Ltd., Bangalore** \
+[**Dover India**](https://www.dovercorporation.com/dover-india) •Design Engineer-I \
+Tools & Technologies Used: `Solidworks PDM`, `JD Edwards`, `SolidWorks 2020` \
+Notable Works: 
+      
+   • **Period:** 0.4 Year (16/2/26 – Present)
+     
+   • **Working Group:** Hillphoenix
+      
+   • **Customers:** ALDI, PETSMART, Trader Joes, etc.
+      
+   • **Products:** Flex, Flex Mini, Flex Mini Neo, etc..
+<br/>
+
 [<img align="left" height="94px" width="94px" alt="JB Poindexter & Co." src="https://media.licdn.com/dms/image/C560BAQEKmfwoE-vY0Q/company-logo_200_200/0/1624906929031?e=2147483647&v=beta&t=83Qu-OpYdTVGeHUwAfi4ibtLfFKi-JIT_mcrLqMJUrU"/>]([https://jbpoindexter.com/])
 
 **JB Poindexter Shared Services India Pvt. Ltd., Bangalore** \
@@ -47,7 +63,7 @@ In the overview below you will find my most recent work experience:
 Tools & Technologies Used: `Solidworks PDM`, `JD Edwards`, `SolidWorks 2020` \
 Notable Works: 
       
-   • **Period:** 0.1 Year (28/8/23 – Present)
+   • **Period:** 2.5 Year (28/8/23 – 15/2/26)
      
    • **Working Group:** Reading Trucks
       
