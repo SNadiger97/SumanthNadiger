@@ -24,15 +24,15 @@
 <h3 align="left">Languages and Tools</h3>
 <p align="left">
 <a href="https://www.arduino.cc/" target="_blank"><img src="https://simpleicons.org/icons/arduino.svg" alt="arduino" width="40" height="40"/> </a> 
- <a href="https://www.mathworks.com/" target="_blank"> <img src="https://www.mathworks.com/etc.clientlibs/mathworks/clientlibs/customer-ui/components/matrixmenu/resources/images/ico-matrix-mathworks.svg" alt="matlab" width="40" height="40"/> </a> 
-<a href="https://www.photoshop.com/en" target="_blank"> <img src="https://simpleicons.org/icons/adobephotoshop.svg" alt="photoshop" width="40" height="40"/> </a> 
+<a href="https://www.mathworks.com/" target="_blank"> <img src="https://www.mathworks.com/etc.clientlibs/mathworks/clientlibs/customer-ui/components/matrixmenu/resources/images/ico-matrix-mathworks.svg" alt="matlab" width="40" height="40"/> </a> 
+
 
 <h3 align="left">CAD / CAM / CAE</h3>
 <p align="left"> 
 <a href="https://www.solidworks.com/" target="_blank"> <img src="https://img.icons8.com/color/452/solidworks.png" alt="Solidworks" width="40" height="40"/> </a> 
 <a href="https://www.Ansys.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/14/Ansys_logo_%282019%29.svg" alt="ANSYS" width="40" height="40"/> </a> 
 <a href="https://www.mastercam.com/" target="_blank"> <img src="https://www.solidworks.com/sites/default/files/files.solidworks.com/partners/company-logos/micon-and-mastercam2121.png" alt="MasterCAM" width="40" height="40"/> </a> 
-<a href="https://www.autodesk.com/" target="_blank"> <img src="https://blogs.autodesk.com/inventor/wp-content/uploads/sites/73/2017/09/inventor-icon-128px-hd.png" alt="Inventor" width="40" height="40"/> </a> 
+<a href="https://www.autodesk.com/" target="_blank"> <img src="https://images.seeklogo.com/logo-png/61/1/autodesk-inventor-logo-png_seeklogo-617680.png" alt="Inventor" width="40" height="40"/> </a> 
 <a href="https://www.autodesk.com/" target="_blank"> <img src="https://img.icons8.com/color/2x/autodesk-autocad.png" alt="AutoCAD" width="40" height="40"/> </a>
 <a href="https://www.ptc.com/en/products/creo" target="_blank"> <img src="https://www.numecent.com/wp-content/uploads/2017/02/PTC_Creo.png" alt="CREO" width="40" height="40"/> </a>
 </p>
@@ -40,7 +40,7 @@
 ### Work Experience
 In the overview below you will find my most recent work experience:
 
-[<img align="left" height="94px" width="94px" alt="JB Poindexter & Co." src="[https://media.licdn.com/dms/image/C560BAQEKmfwoE-vY0Q/company-logo_200_200/0/1624906929031?e=2147483647&v=beta&t=83Qu-OpYdTVGeHUwAfi4ibtLfFKi-JIT_mcrLqMJUrU](https://www.dovercorporation.com/images/default-source/template-graphics/logo-dover_main.png?sfvrsn=9c8c1ac8_2)"/>]([[https://jbpoindexter.com/](https://www.dovercorporation.com/dover-india)])
+[<img align="left" height="94px" width="94px" alt="Dover India" src="https://iconape.com/wp-content/files/jy/51723/png/dover-corporation-logo.png"/>]([https://www.dovercorporation.com/dover-india])
 
 **Dover India Pvt. Ltd., Bangalore** \
 [**Dover India**](https://www.dovercorporation.com/dover-india) •Design Engineer-I \
@@ -56,7 +56,7 @@ Notable Works:
    • **Products:** Flex, Flex Mini, Flex Mini Neo, etc..
 <br/>
 
-[<img align="left" height="94px" width="94px" alt="JB Poindexter & Co." src="https://media.licdn.com/dms/image/C560BAQEKmfwoE-vY0Q/company-logo_200_200/0/1624906929031?e=2147483647&v=beta&t=83Qu-OpYdTVGeHUwAfi4ibtLfFKi-JIT_mcrLqMJUrU"/>]([https://jbpoindexter.com/])
+[<img align="left" height="94px" width="94px" alt="JB Poindexter & Co." src="https://static.ambitionbox.com/assets/v2/images/rs:fit:200:200:false:false/aHR0cHM6Ly9tZWRpYS5uYXVrcmkuY29tL21lZGlhL2FiY29tcGxvZ28vamItcG9pbmRleHRlci5qcGc.webp"/>]([https://jbpoindexter.com/])
 
 **JB Poindexter Shared Services India Pvt. Ltd., Bangalore** \
 [**JB Poindexter & Co.**](https://jbpoindexter.com/) •Engineer-I \
