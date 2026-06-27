@@ -44,7 +44,7 @@ In the overview below you will find my most recent work experience:
 
 **Dover India Pvt. Ltd., Bangalore** \
 [**Dover India**](https://www.dovercorporation.com/dover-india) •Design Engineer-I \
-Tools & Technologies Used: `Solidworks PDM`, `JD Edwards`, `SolidWorks 2020` \
+Tools & Technologies Used: `Solidworks PDM Pro`, `Enovia Professional`, `SolidWorks 2022`, `Integra` \
 Notable Works: 
       
    • **Period:** 0.4 Year (16/2/26 – Present)
@@ -60,7 +60,7 @@ Notable Works:
 
 **JB Poindexter Shared Services India Pvt. Ltd., Bangalore** \
 [**JB Poindexter & Co.**](https://jbpoindexter.com/) •Engineer-I \
-Tools & Technologies Used: `Solidworks PDM`, `JD Edwards`, `SolidWorks 2020` \
+Tools & Technologies Used: `Solidworks PDM`, `JD Edwards`, `SolidWorks 2023` \
 Notable Works: 
       
    • **Period:** 2.5 Year (28/8/23 – 15/2/26)
