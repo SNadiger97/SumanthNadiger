@@ -18,7 +18,7 @@
 
 - - 📚 I’m Currently Studying  at **Scalar**
 
-- 📫 How to reach me<a href="https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=" target="blank"> <img align="center" src="https://simpleicons.org/icons/gmail.svg" fill='rgba(49,168,255,1)' alt="sumanthnadiger" height="40" width="40" /></a> 
+- 📫 How to reach me<a href="https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=<mail id>" target="blank"> <img align="center" src="https://simpleicons.org/icons/gmail.svg" fill='rgba(49,168,255,1)' alt="sumanthnadiger" height="40" width="40" /></a> 
 
 
 <h3 align="left">Languages and Tools</h3>
