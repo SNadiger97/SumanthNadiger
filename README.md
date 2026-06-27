@@ -16,25 +16,25 @@
 
 - 📚 I’m Currently Reading **Statics & Dynamics by R.C Hibbler**
 
-- - 📚 I’m Currently Studying  at **Scalar**
+- 📚 I’m Currently Studying  at **Scalar**
 
-- 📫 How to reach me<a href="https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=<mail id>" target="blank"> <img align="center" src="https://simpleicons.org/icons/gmail.svg" fill='rgba(49,168,255,1)' alt="sumanthnadiger" height="40" width="40" /></a> 
+- 📫 How to reach me  <a href="https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=<mail id>" target="blank"> <img align="center" src="https://simpleicons.org/icons/gmail.svg" alt="sumanthnadiger" height="20" width="20" /></a> 
 
 
 <h3 align="left">Languages and Tools</h3>
 <p align="left">
-<a href="https://www.arduino.cc/" target="_blank"><img src="https://simpleicons.org/icons/arduino.svg" alt="arduino" width="40" height="40"/> </a> 
-<a href="https://www.mathworks.com/" target="_blank"> <img src="https://www.mathworks.com/etc.clientlibs/mathworks/clientlibs/customer-ui/components/matrixmenu/resources/images/ico-matrix-mathworks.svg" alt="matlab" width="40" height="40"/> </a> 
+<a href="https://www.arduino.cc/" target="blank"> <img src="https://simpleicons.org/icons/arduino.svg" alt="arduino" width="40" height="40"/> </a> 
+<a href="https://www.mathworks.com/" target="blank"> <img src="https://www.mathworks.com/etc.clientlibs/mathworks/clientlibs/customer-ui/components/matrixmenu/resources/images/ico-matrix-mathworks.svg" alt="matlab" width="40" height="40"/> </a> 
 
 
 <h3 align="left">CAD / CAM / CAE</h3>
 <p align="left"> 
-<a href="https://www.solidworks.com/" target="_blank"> <img src="https://img.icons8.com/color/452/solidworks.png" alt="Solidworks" width="40" height="40"/> </a> 
-<a href="https://www.Ansys.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/14/Ansys_logo_%282019%29.svg" alt="ANSYS" width="40" height="40"/> </a> 
-<a href="https://www.mastercam.com/" target="_blank"> <img src="https://www.solidworks.com/sites/default/files/files.solidworks.com/partners/company-logos/micon-and-mastercam2121.png" alt="MasterCAM" width="40" height="40"/> </a> 
-<a href="https://www.autodesk.com/" target="_blank"> <img src="https://images.seeklogo.com/logo-png/61/1/autodesk-inventor-logo-png_seeklogo-617680.png" alt="Inventor" width="40" height="40"/> </a> 
-<a href="https://www.autodesk.com/" target="_blank"> <img src="https://img.icons8.com/color/2x/autodesk-autocad.png" alt="AutoCAD" width="40" height="40"/> </a>
-<a href="https://www.ptc.com/en/products/creo" target="_blank"> <img src="https://www.numecent.com/wp-content/uploads/2017/02/PTC_Creo.png" alt="CREO" width="40" height="40"/> </a>
+ <a href="https://www.solidworks.com/" target="blank"> <img src="https://img.icons8.com/color/452/solidworks.png" alt="Solidworks" width="40" height="40"/> </a>
+  <a href="https://www.Ansys.com/" target="blank">  <img src="https://upload.wikimedia.org/wikipedia/commons/1/14/Ansys_logo_%282019%29.svg" alt="ANSYS" width="40" height="40"/> </a> 
+   <a href="https://www.mastercam.com/" target="blank"> <img src="https://www.solidworks.com/sites/default/files/files.solidworks.com/partners/company-logos/micon-and-mastercam2121.png" alt="MasterCAM" width="40" height="40"/> </a> 
+    <a href="https://www.autodesk.com/" target="blank">  <img src="https://images.seeklogo.com/logo-png/61/1/autodesk-inventor-logo-png_seeklogo-617680.png" alt="Inventor" width="40" height="40"/> </a> 
+     <a href="https://www.autodesk.com/" target="blank">  <img src="https://img.icons8.com/color/2x/autodesk-autocad.png" alt="AutoCAD" width="40" height="40"/> </a>
+     <a href="https://www.ptc.com/en/products/creo" target="blank">  <img src="https://www.numecent.com/wp-content/uploads/2017/02/PTC_Creo.png" alt="CREO" width="40" height="40"/> </a>
 </p>
 
 ### Work Experience
